@@ -55,7 +55,7 @@ Forty-nine statements in 12 minutes is about 15 seconds each. Most people will n
 
 ## Practice items
 
-These 12 statements are original, written for these notes, and not taken from Aon or any prep site. All 12 use the four tabs below. Each statement uses one tab only.
+These 5 statements are original, written for these notes, and not taken from Aon or any prep site. All 5 use the four tabs below. Each statement uses one tab only.
 
 **Brightwell Cycles: information tabs**
 
@@ -71,77 +71,44 @@ These 12 statements are original, written for these notes, and not taken from Ao
 > **Tab 4. Environment**
 > Brightwell aims to cut the carbon emissions from its factory by half by 2030, compared with 2020. Since 2023 all electricity used at the factory has come from renewable sources. Packaging is now made from recycled cardboard. Plastic wrapping was removed from all products in 2024 except battery packs, which must still be wrapped in plastic for safety.
 
-### Statements 1 to 6
+### Statements 1 to 5
 
-**Item 1.** Brightwell built bicycle frames before it repaired bicycles.
+**Item 1.** Brightwell buys some of its components from suppliers abroad.
 
-**Item 2.** Brightwell buys some of its components from suppliers abroad.
+**Item 2.** Brightwell sells more electric bikes than road bikes.
 
-**Item 3.** Brightwell sells more electric bikes than road bikes.
+**Item 3.** The four-day week reduced the number of hours factory staff work each week.
 
-**Item 4.** Someone who buys a second-hand Brightwell bike is covered by the lifetime frame warranty.
+**Item 4.** Brightwell's factory has run entirely on renewable electricity since 2023.
 
-**Item 5.** The four-day week reduced the number of hours factory staff work each week.
-
-**Item 6.** Brightwell introduced the four-day week to make it easier to recruit factory staff.
+**Item 5.** Brightwell has already cut its factory emissions to half of their 2020 level.
 
 <details>
-<summary>Answers and explanations, items 1 to 6</summary>
+<summary>Answers and explanations, items 1 to 5</summary>
 
-**Item 1: FALSE.** Tab 1. It "began as a repair shop and started building its own frames in 2004", so repairs came first. *Why not CANNOT SAY:* the order is stated directly.
+**Item 1: TRUE.** Tab 1. Wheels and gears come from suppliers in Italy and Japan, and the company is in Leicester. Wheels and gears are components, and Italy and Japan are abroad. *Why not CANNOT SAY:* the statement says the same thing in different words, which counts as TRUE.
 
-**Item 2: TRUE.** Tab 1. Wheels and gears come from suppliers in Italy and Japan, and the company is in Leicester. Wheels and gears are components, and Italy and Japan are abroad. *Why not CANNOT SAY:* the statement says the same thing in different words, which counts as TRUE.
+**Item 2: CANNOT SAY.** Tab 2. Electric bikes are more than a third of sales by number, which leaves less than two thirds for road and touring bikes together. Road bikes could be above or below the electric share. *Why not TRUE:* "more than a third" does not make electric the biggest line.
 
-**Item 3: CANNOT SAY.** Tab 2. Electric bikes are more than a third of sales by number, which leaves less than two thirds for road and touring bikes together. Road bikes could be above or below the electric share. *Why not TRUE:* "more than a third" does not make electric the biggest line.
+**Item 3: FALSE.** Tab 3. The four-day week kept "the same weekly hours spread over four longer days". *Why not CANNOT SAY:* the text addresses weekly hours directly.
 
-**Item 4: FALSE.** Tab 2. The warranty "applies only to the original owner". A second-hand buyer is not the original owner. *Why not CANNOT SAY:* "only" rules other owners out.
+**Item 4: TRUE.** Tab 4. "Since 2023 all electricity used at the factory has come from renewable sources." The statement is a paraphrase. *Why not CANNOT SAY:* "entirely" matches "all electricity".
 
-**Item 5: FALSE.** Tab 3. The four-day week kept "the same weekly hours spread over four longer days". *Why not CANNOT SAY:* the text addresses weekly hours directly.
-
-**Item 6: CANNOT SAY.** Tab 3 says when the four-day week started and how it works, but gives no reason for it. *Why not TRUE:* the reason may be plausible, but it is not stated anywhere.
+**Item 5: CANNOT SAY.** Tab 4 gives a target for 2030 and one step taken (renewable electricity), but no figure for emissions today. *Why not FALSE:* nothing says the target has not been reached yet, either. The text is silent on progress.
 
 </details>
 
-### Statements 7 to 12
-
-**Item 7.** All of Brightwell's office staff now work a four-day week.
-
-**Item 8.** Brightwell's factory has run entirely on renewable electricity since 2023.
-
-**Item 9.** Brightwell has already cut its factory emissions to half of their 2020 level.
-
-**Item 10.** Brightwell's battery packs are still wrapped in plastic.
-
-**Item 11.** New assembly workers build bikes on their own during their first month.
-
-**Item 12.** Brightwell assembles all of its bicycles at one site.
-
-<details>
-<summary>Answers and explanations, items 7 to 12</summary>
-
-**Item 7: FALSE.** Tab 3. Office staff were offered the pattern "and most accepted". Most is not all, so some office staff did not take it up. *Why not CANNOT SAY:* "most accepted" tells you that not everyone did.
-
-**Item 8: TRUE.** Tab 4. "Since 2023 all electricity used at the factory has come from renewable sources." The statement is a paraphrase. *Why not CANNOT SAY:* "entirely" matches "all electricity".
-
-**Item 9: CANNOT SAY.** Tab 4 gives a target for 2030 and one step taken (renewable electricity), but no figure for emissions today. *Why not FALSE:* nothing says the target has not been reached yet, either. The text is silent on progress.
-
-**Item 10: TRUE.** Tab 4. Battery packs are the one exception: they "must still be wrapped in plastic for safety". *Why not FALSE:* the statement is about battery packs, not about all products.
-
-**Item 11: FALSE.** Tab 3. New assembly workers spend six weeks alongside an experienced builder "before working alone". The first month falls inside those six weeks. *Why not CANNOT SAY:* six weeks is longer than a month, so the timing is settled.
-
-**Item 12: TRUE.** Tab 1. Bicycles are "all assembled at its single factory in Leicester". One factory is one site. *Why not CANNOT SAY:* the statement is about assembly, which the tab covers exactly; parts made elsewhere do not change where the bikes are assembled.
-
-</details>
+Want more? The [free timed Aon cut-e style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aon-cut-e) has the full 56 questions across numerical, verbal and inductive, every answer explained.
 
 ## Score yourself
 
-| Item | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Answer | F | T | CS | F | F | CS | F | T | CS | T | F | T |
+| Item | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Answer | T | CS | F | T | CS |
 
-- **11 to 12:** strong. Your next gain is speed. Redo the set in 3 minutes.
-- **8 to 10:** look at the pattern. Missing items 3, 6 or 9 means you are filling gaps with assumptions. Missing items 2, 8 or 12 means you are matching words too strictly.
-- **7 or fewer:** for a week, write the exact supporting sentence next to every TRUE and FALSE you give. If you cannot write one, the answer is CANNOT SAY.
+- **5 of 5:** strong. Your next gain is speed. Redo the set in 75 seconds.
+- **3 to 4:** look at the pattern. Missing items 2 or 5 means you are filling gaps with assumptions. Missing items 1 or 4 means you are matching words too strictly.
+- **2 or fewer:** for a week, write the exact supporting sentence next to every TRUE and FALSE you give. If you cannot write one, the answer is CANNOT SAY.
 
 ## Next step
 

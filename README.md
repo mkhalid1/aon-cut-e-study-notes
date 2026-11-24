@@ -1,14 +1,14 @@
 # Aon cut-e Study Notes
 
-A free, complete study guide for three of the Aon (cut-e) scales tests used in online job assessments: **scales numerical, scales verbal and scales ix**. It covers how each test works, a clear method for each, 45 original practice items with full explanations (including drawn odd-one-out figures for scales ix), what Aon says about scoring and wrong answers, and study plans for a week or a weekend. Facts about the tests come only from Aon's own pages, each one [cited](docs/sources.md).
+A free, complete study guide for three of the Aon (cut-e) scales tests used in online job assessments: **scales numerical, scales verbal and scales ix**. It covers how each test works, a clear method for each, 21 original practice items with full explanations (including drawn odd-one-out figures for scales ix), what Aon says about scoring and wrong answers, and study plans for a week or a weekend. Facts about the tests come only from Aon's own pages, each one [cited](docs/sources.md).
 
 Want to see where you stand first? Take the [free timed Aon cut-e style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aon-cut-e), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
 1. **Check your invitation.** Note which tests you were sent. Many processes use only some of them.
-2. **Find your weak spot.** Take the [15-minute diagnostic](docs/diagnostic.md). It has three items from each test and tells you where to start.
-3. **Fix the weakest test first.** Open its guide below, learn the method, then do its 12 practice items.
+2. **Find your weak spot.** Take the [15-minute diagnostic](docs/diagnostic.md). It has two items from each test and tells you where to start.
+3. **Fix the weakest test first.** Open its guide below, learn the method, then do its 5 practice items.
 4. **Follow a plan.** Use the [7-day plan](docs/study-plans.md#7-day-plan), or the [2-day plan](docs/study-plans.md#2-day-plan) if your deadline is close.
 
 ## Quick facts
@@ -34,7 +34,7 @@ Source: [Aon, Prepare for your Online Assessment](https://www.aon.com/en/capabil
 | scales verbal | Tabs of text about one organisation | TRUE, FALSE or CANNOT SAY | [Verbal](docs/sections/scales-verbal.md) |
 | scales ix | Nine numbered figures | The number of the figure that breaks the rule | [ix](docs/sections/scales-ix.md) |
 
-Every guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 12 original practice items with explanations, and a score table.
+Every guide has the same parts: what it measures, how the questions look, a step-by-step method, the traps that cost points, timing advice, 5 original practice items with explanations, and a score table.
 
 ## Contents
 
@@ -153,7 +153,7 @@ Every guide has the same parts: what it measures, how the questions look, a step
 
 ## About the practice items
 
-All 45 practice items are original, written and drawn for these notes. None are taken from Aon's tests, Aon's practice documents or any prep site. They follow the rules Aon publishes for each test, so the method you learn here transfers to the real thing.
+All 21 practice items are original, written and drawn for these notes. None are taken from Aon's tests, Aon's practice documents or any prep site. They follow the rules Aon publishes for each test, so the method you learn here transfers to the real thing.
 
 ## Contributing
 
