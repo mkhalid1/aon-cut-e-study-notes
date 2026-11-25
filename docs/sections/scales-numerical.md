@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [scales verbal](scales-verbal.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [15-minute diagnostic](../diagnostic.md) · Next: [scales verbal](scales-verbal.md)
+<!-- /nav:top -->
 
 # scales numerical
 
@@ -136,4 +138,6 @@ Five statements with no clock is very different from 37 in 12 minutes. Try the n
 
 ---
 
-<!-- nav:bottom -->← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [scales verbal](scales-verbal.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [15-minute diagnostic](../diagnostic.md) | Next: [scales verbal](scales-verbal.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

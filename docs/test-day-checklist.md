@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Other Aon tests you may be sent](other-aon-tests.md) · Next: [FAQ](faq.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Other Aon tests you may be sent](other-aon-tests.md) · Next: [FAQ](faq.md)
+<!-- /nav:top -->
 
 # Test-day checklist
 
@@ -42,4 +44,6 @@ If you have time, do one short timed run the day before, not the hour before. Th
 
 ---
 
-<!-- nav:bottom -->← Previous: [Other Aon tests you may be sent](other-aon-tests.md) | Next: [FAQ](faq.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Other Aon tests you may be sent](other-aon-tests.md) | Next: [FAQ](faq.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

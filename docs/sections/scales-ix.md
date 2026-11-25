@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [scales verbal](scales-verbal.md) · Next: [How scoring works](../scoring.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [scales verbal](scales-verbal.md) · Next: [How scoring works](../scoring.md)
+<!-- /nav:top -->
 
 # scales ix (inductive reasoning)
 
@@ -105,4 +107,6 @@ Speed matters more on scales ix than on any other scales test. Try the inductive
 
 ---
 
-<!-- nav:bottom -->← Previous: [scales verbal](scales-verbal.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [scales verbal](scales-verbal.md) | Next: [How scoring works](../scoring.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->

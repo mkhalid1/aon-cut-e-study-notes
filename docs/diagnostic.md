@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [The Aon cut-e scales tests explained](test-overview.md) · Next: [scales numerical](sections/scales-numerical.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [The Aon cut-e scales tests explained](test-overview.md) · Next: [scales numerical](sections/scales-numerical.md)
+<!-- /nav:top -->
 
 # 15-minute diagnostic
 
@@ -87,4 +89,6 @@ If you missed the CANNOT SAY items (A2, B1), that is the most common pattern of 
 
 ---
 
-<!-- nav:bottom -->← Previous: [The Aon cut-e scales tests explained](test-overview.md) | Next: [scales numerical](sections/scales-numerical.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [The Aon cut-e scales tests explained](test-overview.md) | Next: [scales numerical](sections/scales-numerical.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

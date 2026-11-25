@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [Timing and pacing](timing.md) · Next: [Other Aon tests you may be sent](other-aon-tests.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [Timing and pacing](timing.md) · Next: [Other Aon tests you may be sent](other-aon-tests.md)
+<!-- /nav:top -->
 
 # Study plans
 
@@ -59,4 +61,6 @@ For when the invitation is in and the deadline is close. Aon says you usually ha
 
 ---
 
-<!-- nav:bottom -->← Previous: [Timing and pacing](timing.md) | Next: [Other Aon tests you may be sent](other-aon-tests.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [Timing and pacing](timing.md) | Next: [Other Aon tests you may be sent](other-aon-tests.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Next: [15-minute diagnostic](diagnostic.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Next: [15-minute diagnostic](diagnostic.md)
+<!-- /nav:top -->
 
 # The Aon cut-e scales tests explained
 
@@ -53,4 +55,6 @@ These notes teach the rules. To feel the clock, try the [free Aon cut-e style pr
 
 ---
 
-<!-- nav:bottom -->Next: [15-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+Next: [15-minute diagnostic](diagnostic.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

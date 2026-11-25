@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../README.md#contents) · Previous: [scales ix (inductive reasoning)](sections/scales-ix.md) · Next: [Timing and pacing](timing.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../README.md#contents) · Previous: [scales ix (inductive reasoning)](sections/scales-ix.md) · Next: [Timing and pacing](timing.md)
+<!-- /nav:top -->
 
 # How scoring works
 
@@ -47,4 +49,6 @@ Aon says employers should tell you how your data is handled, that Aon recommends
 
 ---
 
-<!-- nav:bottom -->← Previous: [scales ix (inductive reasoning)](sections/scales-ix.md) | Next: [Timing and pacing](timing.md) → | [Back to contents](../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [scales ix (inductive reasoning)](sections/scales-ix.md) | Next: [Timing and pacing](timing.md) → | [Back to contents](../README.md#contents)
+<!-- /nav:bottom -->

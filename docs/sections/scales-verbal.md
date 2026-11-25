@@ -1,4 +1,6 @@
-<!-- nav:top -->[Contents](../../README.md#contents) · Previous: [scales numerical](scales-numerical.md) · Next: [scales ix (inductive reasoning)](scales-ix.md)<!-- /nav:top -->
+<!-- nav:top -->
+[Contents](../../README.md#contents) · Previous: [scales numerical](scales-numerical.md) · Next: [scales ix (inductive reasoning)](scales-ix.md)
+<!-- /nav:top -->
 
 # scales verbal
 
@@ -116,4 +118,6 @@ Practise the same skill under time pressure with the verbal block of the [free A
 
 ---
 
-<!-- nav:bottom -->← Previous: [scales numerical](scales-numerical.md) | Next: [scales ix (inductive reasoning)](scales-ix.md) → | [Back to contents](../../README.md#contents)<!-- /nav:bottom -->
+<!-- nav:bottom -->
+← Previous: [scales numerical](scales-numerical.md) | Next: [scales ix (inductive reasoning)](scales-ix.md) → | [Back to contents](../../README.md#contents)
+<!-- /nav:bottom -->
