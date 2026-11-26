@@ -16,7 +16,7 @@ Expect about 45 to 75 minutes a day on the 7-day plan.
 | 2 | Numerical | Read the [numerical guide](sections/scales-numerical.md). Do all 5 items untimed. For each miss, write which tab you used and what you missed. |
 | 3 | Verbal | Read the [verbal guide](sections/scales-verbal.md). Do all 5 items. For each TRUE or FALSE, write the sentence that decides it. |
 | 4 | ix | Read the [ix guide](sections/scales-ix.md). Do all 5 items. For each, write the rule as one sentence before checking. |
-| 5 | First timed run | Take a timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aon-cut-e). Read [timing and pacing](timing.md). Note where you ran out of time. |
+| 5 | First timed run | Take a timed practice test, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=zauf9v&utm_content=aon-cut-e). Read [timing and pacing](timing.md). Note where you ran out of time. |
 | 6 | Fix the weakest test | Re-read that guide's traps list. Redo its 5 items against a timer: 100 seconds for numerical, 75 for verbal, 75 for ix. Find fresh practice for that format. |
 | 7 | Second timed run, then rest | Take a second timed run in the morning. Compare with day 5. Read the [test-day checklist](test-day-checklist.md). Stop by early evening. |
 
@@ -41,7 +41,7 @@ For when the invitation is in and the deadline is close. Aon says you usually ha
 | 1 | 15 min | Take the [diagnostic](diagnostic.md). |
 | 2 | 20 min | Read the "How the questions look" and "Traps" parts of each guide you need. |
 | 3 | 40 min | Do the practice items for your weakest test. Read every explanation. |
-| 4 | 20 min | Take a timed practice run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aon-cut-e). |
+| 4 | 20 min | Take a timed practice run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=zauf9v&utm_content=aon-cut-e). |
 
 ### Day 2: sharpen, then sit the tests
 

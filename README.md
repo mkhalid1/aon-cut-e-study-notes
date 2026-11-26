@@ -2,7 +2,7 @@
 
 A free, complete study guide for three of the Aon (cut-e) scales tests used in online job assessments: **scales numerical, scales verbal and scales ix**. It covers how each test works, a clear method for each, 21 original practice items with full explanations (including drawn odd-one-out figures for scales ix), what Aon says about scoring and wrong answers, and study plans for a week or a weekend. Facts about the tests come only from Aon's own pages, each one [cited](docs/sources.md).
 
-Want to see where you stand first? Take the [free timed Aon cut-e style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aon-cut-e), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
+Want to see where you stand first? Take the [free timed Aon cut-e style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=zauf9v&utm_content=aon-cut-e), or the shorter [15-minute diagnostic](docs/diagnostic.md) in this repo.
 
 ## Start here
 
@@ -148,7 +148,7 @@ Every guide has the same parts: what it measures, how the questions look, a step
 - **Test yourself honestly.** Answers are hidden under "Answers and explanations". Commit to an answer before you open them.
 - **Read every explanation,** including for items you got right. Most say why the nearest wrong answer is wrong, which is where the learning is.
 - **Keep a miss log.** For each miss, write the rule you broke. The [study plans](docs/study-plans.md#how-to-review-a-missed-item) show how.
-- **Practise timed.** The notes teach the rules. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aon-cut-e), teaches the pace.
+- **Practise timed.** The notes teach the rules. A timed run, such as the [free one on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=zauf9v&utm_content=aon-cut-e), teaches the pace.
 - **Clone or fork it** to annotate your own copy. The structure also works as a GitBook space: see [SUMMARY.md](SUMMARY.md).
 
 ## About the practice items

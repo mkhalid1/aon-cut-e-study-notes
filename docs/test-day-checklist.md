@@ -40,7 +40,7 @@
 
 ## Last practice before the real one
 
-If you have time, do one short timed run the day before, not the hour before. The [free Aon cut-e style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aon-cut-e) covers all three formats.
+If you have time, do one short timed run the day before, not the hour before. The [free Aon cut-e style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=zauf9v&utm_content=aon-cut-e) covers all three formats.
 
 ---
 

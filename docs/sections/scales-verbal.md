@@ -100,7 +100,7 @@ These 5 statements are original, written for these notes, and not taken from Aon
 
 </details>
 
-Want more? The [free timed Aon cut-e style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aon-cut-e) has the full 56 questions across numerical, verbal and inductive, every answer explained.
+Want more? The [free timed Aon cut-e style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=zauf9v&utm_content=aon-cut-e) has the full 56 questions across numerical, verbal and inductive, every answer explained.
 
 ## Score yourself
 
@@ -114,7 +114,7 @@ Want more? The [free timed Aon cut-e style practice test on PrepClubs](https://p
 
 ## Next step
 
-Practise the same skill under time pressure with the verbal block of the [free Aon cut-e style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aon-cut-e), then return to the traps list for any you missed.
+Practise the same skill under time pressure with the verbal block of the [free Aon cut-e style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=zauf9v&utm_content=aon-cut-e), then return to the traps list for any you missed.
 
 ---
 

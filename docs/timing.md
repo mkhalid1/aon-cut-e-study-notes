@@ -49,7 +49,7 @@ These checkpoints are our own guidance, not Aon's.
 
 ## Practise against the clock
 
-Untimed practice builds accuracy. Timed practice builds pace. Once your accuracy on the section guides is good, do at least two timed runs. The [free Aon cut-e style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aon-cut-e) runs all three formats against one clock, so you can practise switching between them.
+Untimed practice builds accuracy. Timed practice builds pace. Once your accuracy on the section guides is good, do at least two timed runs. The [free Aon cut-e style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=zauf9v&utm_content=aon-cut-e) runs all three formats against one clock, so you can practise switching between them.
 
 ---
 

@@ -89,7 +89,7 @@ These 5 items are original, drawn for these notes, and not taken from Aon or any
 
 </details>
 
-Want more? The [free timed Aon cut-e style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aon-cut-e) has the full 56 questions across numerical, verbal and inductive, every answer explained.
+Want more? The [free timed Aon cut-e style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=zauf9v&utm_content=aon-cut-e) has the full 56 questions across numerical, verbal and inductive, every answer explained.
 
 ## Score yourself
 
@@ -103,7 +103,7 @@ Want more? The [free timed Aon cut-e style practice test on PrepClubs](https://p
 
 ## Next step
 
-Speed matters more on scales ix than on any other scales test. Try the inductive block of the [free Aon cut-e style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aon-cut-e), then come back to the traps list.
+Speed matters more on scales ix than on any other scales test. Try the inductive block of the [free Aon cut-e style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=zauf9v&utm_content=aon-cut-e), then come back to the traps list.
 
 ---
 

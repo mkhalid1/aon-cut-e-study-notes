@@ -51,7 +51,7 @@ All three tests give you more items than most people can finish, and Aon says th
 
 ## Practise the real format
 
-These notes teach the rules. To feel the clock, try the [free Aon cut-e style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=study-notes&utm_content=aon-cut-e): a timed diagnostic with numerical, verbal and inductive blocks and an explanation for every answer. Aon's own candidate page also has demo videos and practice task documents, linked in [Sources](sources.md).
+These notes teach the rules. To feel the clock, try the [free Aon cut-e style practice test on PrepClubs](https://prepclubs.com/free-practice-tests/aon-cut-e?utm_source=github&utm_medium=referral&utm_campaign=zauf9v&utm_content=aon-cut-e): a timed diagnostic with numerical, verbal and inductive blocks and an explanation for every answer. Aon's own candidate page also has demo videos and practice task documents, linked in [Sources](sources.md).
 
 ---
 
